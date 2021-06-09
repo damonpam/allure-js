@@ -26,6 +26,5 @@ package-lock.json
 #Junk
 
 out
-dist
 *.tgz
 *.log

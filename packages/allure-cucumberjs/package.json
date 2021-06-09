@@ -38,6 +38,6 @@
     "verror": "^1.10.0"
   },
   "dependencies": {
-    "allure-js-commons": "^2.0.0-beta.10"
+    "allure-js-commons": "https://gitpkg.now.sh/damonpam/allure-js/packages/allure-js-commons?master"
   }
 }
